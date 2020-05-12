@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "8ee8a16a-31f1-4b46-8533-7756c6bf9a50",
+            "Value": {
+                "id": "b4c18528-6e26-4ce4-86ee-87b0426516f3",
+                "resourcePath": "objects\/oP2\/oP2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99dd7974-1772-4dcb-991e-99cf17a53217",
+            "Value": {
+                "id": "7cb849c3-244a-4bc5-8635-ddb09eba44f8",
+                "resourcePath": "sprites\/sP1Punch\/sP1Punch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e98dab0-939f-4df3-a8aa-d1ddb287ef2c",
             "Value": {
                 "id": "360a5431-a86a-4f50-8ee6-4f1b31ea9622",
@@ -162,7 +178,15 @@
             "Key": "a67b7995-cbd9-4b16-b652-306f22b6629e",
             "Value": {
                 "id": "cabbb568-af83-4651-ae2c-2d15446c8f19",
-                "resourcePath": "sprites\/p1\/p1.yy",
+                "resourcePath": "sprites\/sP1\/sP1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a77d42fe-ea7e-4dd4-aeac-3bb51c1dc36f",
+            "Value": {
+                "id": "296ba5db-2291-4c72-8b01-b47bf19f8c80",
+                "resourcePath": "sprites\/sP2\/sP2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -212,6 +236,14 @@
                 "id": "2cab7c9f-e0e4-4075-b5b1-5ae4b325be2e",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8236030-ccce-460b-8af2-658dc69dfc46",
+            "Value": {
+                "id": "671721cf-ea01-43f4-a710-521fe12b57d7",
+                "resourcePath": "sprites\/sP2Punch\/sP2Punch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
