@@ -1,0 +1,19 @@
+Converting GML script: ${project_dir}\objects\oP1\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\oP1\Step_0.gml
+Converted description /// @description X Direction
+Converted string - line 22: 'D' -> "D"
+Converted string - line 28: 'A' -> "A"
+Converted string - line 60: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\oP2\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\oP2\Step_0.gml
+Converted description /// @description X Direction
+Converted string - line 87: 'O' -> "O"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
